@@ -1,0 +1,25 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Dataset files
+data/
+dataset/
+PlantVillage/
+
+# Model files (upload separately if needed)
+*.h5
+*.keras
+*.pth
+*.pt
+
+# Secrets
+.env
