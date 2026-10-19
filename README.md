@@ -1,0 +1,2 @@
+# Plant-disease-detection
+Plant Disease Detection using Deep Learning and Transfer Learning
